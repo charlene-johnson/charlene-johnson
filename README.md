@@ -5,7 +5,7 @@ Hi, my name is Charlene! I am currently learning Full-Stack Web Development work
 
 - 🌱 I’m currently learning: More React, JavaScript, Node, Material UI...many others!
 - 👯 I’m looking to collaborate on: Doing side projects using React and Javascript.
-- 📫 How to reach me:charlene.j8234@gmail.com
+- 📫 How to reach me: charlene.j8234@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love online MMORPGs!
 
